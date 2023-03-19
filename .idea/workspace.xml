@@ -45,16 +45,34 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos-em-golang-karlosmafra"
+    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos-em-golang-karlosmafra",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build alg10.go (1)">
+  <component name="RunManager" selected="Go Build.go build alg08.go">
     <configuration name="go build alg04.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-karlosmafra" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao/alg04.go" />
+      <filePath value="$PROJECT_DIR$/repeticao/alg04.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build alg05.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repeticao/alg05.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build alg06.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/repeticao/alg06.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build alg06.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -70,7 +88,7 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao/alg07.go" />
+      <filePath value="$PROJECT_DIR$/repeticao/alg07.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build alg08.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -78,23 +96,7 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao/alg08.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build alg09.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao/alg09.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build alg10.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/selecao/alg10.go" />
+      <filePath value="$PROJECT_DIR$/repeticao/alg08.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build alg10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -107,10 +109,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build alg10.go (1)" />
-        <item itemvalue="Go Build.go build alg09.go" />
         <item itemvalue="Go Build.go build alg08.go" />
         <item itemvalue="Go Build.go build alg07.go" />
+        <item itemvalue="Go Build.go build alg06.go (1)" />
+        <item itemvalue="Go Build.go build alg05.go" />
         <item itemvalue="Go Build.go build alg04.go" />
       </list>
     </recent_temporary>
