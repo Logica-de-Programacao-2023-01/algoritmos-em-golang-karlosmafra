@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strings"
 )
 
 func main() {
@@ -17,6 +18,9 @@ func main() {
 	fmt.Print("Digite um número: ")
 	fmt.Scan(&n)
 
-	fmt.Print(str)
-
+	if n <= len(str) && n >= 0 {
+		fmt.Println(strings.ToUpper(str[0:n]) + str[n:])
+	} else {
+		fmt.Println("Número inválido")
+	}
 }
