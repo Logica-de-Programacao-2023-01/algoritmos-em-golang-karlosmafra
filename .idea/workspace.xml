@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc864450-f1c7-4edf-b9b6-d74f1e3a8b20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritmos---arrays-e-slices-karlosmafra" beforeDir="false" />
-    </list>
+    <list default="true" id="dc864450-f1c7-4edf-b9b6-d74f1e3a8b20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../Program Files/Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,27 +55,19 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos---arrays-e-slices-karlosmafra",
+    "last_opened_file_path": "C:/Users/carlos.moraes/repos/algoritmos-em-golang-karlosmafra/algoritmos-em-golang-karlosmafra",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build arr05.go">
+  <component name="RunManager" selected="Go Build.go build str04.go">
     <configuration name="go build alg06.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="algoritmos-em-golang-karlosmafra" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/alg06.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build alg10.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/repeticao/alg10.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build alg10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -90,30 +78,6 @@
       <filePath value="$PROJECT_DIR$/alg10.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build arr01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/arrays/arr01.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build arr02.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/arrays/arr02.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build arr03.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-karlosmafra" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/arrays/arr03.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build arr05.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-karlosmafra" />
       <working_directory value="$PROJECT_DIR$" />
@@ -122,13 +86,45 @@
       <filePath value="$PROJECT_DIR$/arrays/arr05.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build str01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/strings/str01.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build str02.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/strings/str02.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build str03.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/strings/str03.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build str04.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-karlosmafra" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/strings/str04.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build str04.go" />
+        <item itemvalue="Go Build.go build str03.go" />
+        <item itemvalue="Go Build.go build str02.go" />
+        <item itemvalue="Go Build.go build str01.go" />
         <item itemvalue="Go Build.go build arr05.go" />
-        <item itemvalue="Go Build.go build arr03.go" />
-        <item itemvalue="Go Build.go build arr02.go" />
-        <item itemvalue="Go Build.go build arr01.go" />
-        <item itemvalue="Go Build.go build alg10.go (1)" />
       </list>
     </recent_temporary>
   </component>
